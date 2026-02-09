@@ -1,0 +1,13 @@
+{
+  "benchmarks": [
+    {
+      "name": "B100",
+      "runtime_seconds": 132.937610169,
+      "cost": 174320.625,
+      "area": 199784,
+      "wirelength": 148857.25,
+      "width": 452,
+      "height": 442
+    }
+  ]
+}

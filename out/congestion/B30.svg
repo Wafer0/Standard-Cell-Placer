@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="557.1428571428571" height="900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  <text x="278.57142857142856" y="30" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">Floorplan: B30</text>
+  <rect x="50" y="50" width="457.14285714285717" height="800" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="50" y="386.4365971107544" width="150.24077046548956" height="136.11556982343498" fill="#FFB6C1" stroke="#333" stroke-width="1.5"/>
+  <text x="125.12038523274478" y="454.4943820224719" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb0</text>
+  <rect x="376.1637239165329" y="50" width="56.5008025682183" height="57.78491171749599" fill="#87CEEB" stroke="#333" stroke-width="1.5"/>
+  <text x="404.41412520064205" y="78.892455858748" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb1</text>
+  <rect x="421.107544141252" y="521.2680577849117" width="73.19422150882825" height="125.84269662921348" fill="#98FB98" stroke="#333" stroke-width="1.5"/>
+  <text x="457.7046548956661" y="584.1894060995184" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb2</text>
+  <rect x="193.82022471910113" y="631.7014446227929" width="172.07062600321026" height="100.16051364365971" fill="#DDA0DD" stroke="#333" stroke-width="1.5"/>
+  <text x="279.85553772070625" y="681.7817014446227" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb3</text>
+  <rect x="313.24237560192614" y="189.96789727126804" width="101.4446227929374" height="113.0016051364366" fill="#F0E68C" stroke="#333" stroke-width="1.5"/>
+  <text x="363.9646869983948" y="246.46869983948633" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb4</text>
+  <rect x="241.3322632423756" y="731.8619582664527" width="132.26324237560192" height="47.51203852327448" fill="#FFE4B5" stroke="#333" stroke-width="1.5"/>
+  <text x="307.46388443017656" y="755.6179775280899" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb5</text>
+  <rect x="213.08186195826644" y="430.0963081861958" width="79.61476725521669" height="100.16051364365971" fill="#B0E0E6" stroke="#333" stroke-width="1.5"/>
+  <text x="252.8892455858748" y="480.17656500802565" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb6</text>
+  <rect x="213.08186195826644" y="530.2568218298555" width="138.68378812199037" height="101.4446227929374" fill="#FFA07A" stroke="#333" stroke-width="1.5"/>
+  <text x="282.42375601926165" y="580.9791332263243" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb7</text>
+  <rect x="50" y="522.5521669341895" width="163.08186195826644" height="82.18298555377207" fill="#D8BFD8" stroke="#333" stroke-width="1.5"/>
+  <text x="131.54093097913324" y="563.6436597110755" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb8</text>
+  <rect x="50" y="604.7351524879615" width="143.82022471910113" height="138.68378812199037" fill="#AFEEEE" stroke="#333" stroke-width="1.5"/>
+  <text x="121.91011235955057" y="674.0770465489567" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb9</text>
+  <rect x="347.91332263242373" y="805.056179775281" width="114.28571428571429" height="44.943820224719104" fill="#FFB6C1" stroke="#333" stroke-width="1.5"/>
+  <text x="405.0561797752809" y="827.5280898876405" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb10</text>
+  <rect x="313.24237560192614" y="302.9695024077047" width="95.02407704654895" height="66.77367576243981" fill="#87CEEB" stroke="#333" stroke-width="1.5"/>
+  <text x="360.75441412520064" y="336.35634028892457" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb11</text>
+  <rect x="114.20545746388443" y="258.0256821829855" width="107.86516853932584" height="121.99036918138042" fill="#98FB98" stroke="#333" stroke-width="1.5"/>
+  <text x="168.13804173354734" y="319.0208667736757" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb12</text>
+  <rect x="376.1637239165329" y="107.78491171749599" width="79.61476725521669" height="82.18298555377207" fill="#DDA0DD" stroke="#333" stroke-width="1.5"/>
+  <text x="415.9711075441412" y="148.87640449438203" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb13</text>
+  <rect x="313.24237560192614" y="369.74317817014446" width="107.86516853932584" height="145.1043338683788" fill="#F0E68C" stroke="#333" stroke-width="1.5"/>
+  <text x="367.17495987158907" y="442.2953451043339" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb14</text>
+  <rect x="455.7784911717496" y="50" width="50.080256821829856" height="143.82022471910113" fill="#FFE4B5" stroke="#333" stroke-width="1.5"/>
+  <text x="480.8186195826645" y="121.91011235955057" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb15</text>
+  <rect x="222.07062600321026" y="258.0256821829855" width="88.60353130016051" height="172.07062600321026" fill="#B0E0E6" stroke="#333" stroke-width="1.5"/>
+  <text x="266.3723916532905" y="344.06099518459064" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb16</text>
+  <rect x="50" y="50" width="91.17174959871589" height="169.5024077046549" fill="#FFA07A" stroke="#333" stroke-width="1.5"/>
+  <text x="95.58587479935795" y="134.75120385232745" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb17</text>
+  <rect x="365.89085072231137" y="514.8475120385233" width="53.93258426966292" height="136.11556982343498" fill="#D8BFD8" stroke="#333" stroke-width="1.5"/>
+  <text x="392.85714285714283" y="582.9052969502408" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb18</text>
+  <rect x="373.59550561797755" y="650.9630818619582" width="132.26324237560192" height="154.09309791332262" fill="#AFEEEE" stroke="#333" stroke-width="1.5"/>
+  <text x="439.72712680577854" y="728.0096308186196" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb19</text>
+  <rect x="141.1717495987159" y="50" width="172.07062600321026" height="163.08186195826644" fill="#FFB6C1" stroke="#333" stroke-width="1.5"/>
+  <text x="227.20706260032102" y="131.54093097913324" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb20</text>
+  <rect x="222.07062600321026" y="779.3739967897271" width="125.84269662921348" height="57.78491171749599" fill="#87CEEB" stroke="#333" stroke-width="1.5"/>
+  <text x="284.991974317817" y="808.2664526484751" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb21</text>
+  <rect x="50" y="743.4189406099518" width="114.28571428571429" height="104.01284109149277" fill="#98FB98" stroke="#333" stroke-width="1.5"/>
+  <text x="107.14285714285714" y="795.4253611556983" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb22</text>
+  <rect x="50" y="219.5024077046549" width="64.20545746388443" height="166.9341894060995" fill="#DDA0DD" stroke="#333" stroke-width="1.5"/>
+  <text x="82.10272873194222" y="302.9695024077047" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb23</text>
+  <rect x="313.24237560192614" y="50" width="62.92134831460674" height="138.68378812199037" fill="#F0E68C" stroke="#333" stroke-width="1.5"/>
+  <text x="344.7030497592295" y="119.34189406099519" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb24</text>
+  <rect x="141.1717495987159" y="213.08186195826644" width="151.52487961476726" height="44.943820224719104" fill="#FFE4B5" stroke="#333" stroke-width="1.5"/>
+  <text x="216.93418940609953" y="235.553772070626" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb25</text>
+  <rect x="421.107544141252" y="354.3338683788122" width="86.03531300160513" height="166.9341894060995" fill="#B0E0E6" stroke="#333" stroke-width="1.5"/>
+  <text x="464.12520064205455" y="437.80096308186194" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb26</text>
+  <rect x="193.82022471910113" y="731.8619582664527" width="47.51203852327448" height="42.375601926163725" fill="#FFA07A" stroke="#333" stroke-width="1.5"/>
+  <text x="217.57624398073838" y="753.0497592295345" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb27</text>
+  <rect x="414.68699839486356" y="193.82022471910113" width="91.17174959871589" height="160.51364365971108" fill="#D8BFD8" stroke="#333" stroke-width="1.5"/>
+  <text x="460.2728731942215" y="274.0770465489567" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb28</text>
+  <rect x="164.28571428571428" y="774.2375601926163" width="57.78491171749599" height="64.20545746388443" fill="#AFEEEE" stroke="#333" stroke-width="1.5"/>
+  <text x="193.17817014446229" y="806.3402889245585" font-family="Arial" font-size="10" text-anchor="middle" dominant-baseline="middle">sb29</text>
+  <circle cx="224.63884430176566" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="224.63884430176566" y="40" font-family="Arial" font-size="8" text-anchor="middle">p1</text>
+  <circle cx="507.14285714285717" cy="578.4109149277689" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="568.4109149277689" font-family="Arial" font-size="8" text-anchor="middle">p2</text>
+  <circle cx="507.14285714285717" cy="271.5088282504013" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="261.5088282504013" font-family="Arial" font-size="8" text-anchor="middle">p3</text>
+  <circle cx="195.74638844301765" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="195.74638844301765" y="840" font-family="Arial" font-size="8" text-anchor="middle">p4</text>
+  <circle cx="287.56019261637243" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="287.56019261637243" y="840" font-family="Arial" font-size="8" text-anchor="middle">p5</text>
+  <circle cx="507.14285714285717" cy="575.8426966292135" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="565.8426966292135" font-family="Arial" font-size="8" text-anchor="middle">p6</text>
+  <circle cx="222.07062600321026" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="222.07062600321026" y="40" font-family="Arial" font-size="8" text-anchor="middle">p7</text>
+  <circle cx="507.14285714285717" cy="572.6324237560193" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="562.6324237560193" font-family="Arial" font-size="8" text-anchor="middle">p8</text>
+  <circle cx="50" cy="305.53772070626" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="295.53772070626" font-family="Arial" font-size="8" text-anchor="middle">p9</text>
+  <circle cx="109.71107544141252" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="109.71107544141252" y="840" font-family="Arial" font-size="8" text-anchor="middle">p10</text>
+  <circle cx="219.5024077046549" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="219.5024077046549" y="40" font-family="Arial" font-size="8" text-anchor="middle">p11</text>
+  <circle cx="507.14285714285717" cy="725.4414125200642" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="715.4414125200642" font-family="Arial" font-size="8" text-anchor="middle">p12</text>
+  <circle cx="507.14285714285717" cy="434.59069020866775" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="424.59069020866775" font-family="Arial" font-size="8" text-anchor="middle">p13</text>
+  <circle cx="507.14285714285717" cy="119.34189406099519" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="109.34189406099519" font-family="Arial" font-size="8" text-anchor="middle">p14</text>
+  <circle cx="50" cy="308.1059390048154" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="298.1059390048154" font-family="Arial" font-size="8" text-anchor="middle">p15</text>
+  <circle cx="310.03210272873196" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="310.03210272873196" y="840" font-family="Arial" font-size="8" text-anchor="middle">p16</text>
+  <circle cx="507.14285714285717" cy="268.9406099518459" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="258.9406099518459" font-family="Arial" font-size="8" text-anchor="middle">p17</text>
+  <circle cx="50" cy="457.0626003210273" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="447.0626003210273" font-family="Arial" font-size="8" text-anchor="middle">p18</text>
+  <circle cx="507.14285714285717" cy="722.8731942215088" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="712.8731942215088" font-family="Arial" font-size="8" text-anchor="middle">p19</text>
+  <circle cx="50" cy="566.2118780096308" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="556.2118780096308" font-family="Arial" font-size="8" text-anchor="middle">p20</text>
+  <circle cx="50" cy="568.7800963081862" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="558.7800963081862" font-family="Arial" font-size="8" text-anchor="middle">p21</text>
+  <circle cx="507.14285714285717" cy="116.77367576243981" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="106.77367576243981" font-family="Arial" font-size="8" text-anchor="middle">p22</text>
+  <circle cx="507.14285714285717" cy="243.90048154093097" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="233.90048154093097" font-family="Arial" font-size="8" text-anchor="middle">p23</text>
+  <circle cx="507.14285714285717" cy="431.3804173354735" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="421.3804173354735" font-family="Arial" font-size="8" text-anchor="middle">p24</text>
+  <circle cx="50" cy="321.5890850722311" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="311.5890850722311" font-family="Arial" font-size="8" text-anchor="middle">p25</text>
+  <circle cx="507.14285714285717" cy="241.3322632423756" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="231.3322632423756" font-family="Arial" font-size="8" text-anchor="middle">p26</text>
+  <circle cx="507.14285714285717" cy="720.3049759229534" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="710.3049759229534" font-family="Arial" font-size="8" text-anchor="middle">p27</text>
+  <circle cx="50" cy="137.31942215088282" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="127.31942215088282" font-family="Arial" font-size="8" text-anchor="middle">p28</text>
+  <circle cx="50" cy="139.8876404494382" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="129.8876404494382" font-family="Arial" font-size="8" text-anchor="middle">p29</text>
+  <circle cx="50" cy="676.6452648475121" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="666.6452648475121" font-family="Arial" font-size="8" text-anchor="middle">p30</text>
+  <circle cx="50" cy="571.3483146067416" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="561.3483146067416" font-family="Arial" font-size="8" text-anchor="middle">p31</text>
+  <circle cx="507.14285714285717" cy="569.422150882825" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="559.422150882825" font-family="Arial" font-size="8" text-anchor="middle">p32</text>
+  <circle cx="507.14285714285717" cy="566.8539325842696" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="556.8539325842696" font-family="Arial" font-size="8" text-anchor="middle">p33</text>
+  <circle cx="50" cy="459.63081861958267" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="449.63081861958267" font-family="Arial" font-size="8" text-anchor="middle">p34</text>
+  <circle cx="507.14285714285717" cy="146.30818619582664" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="136.30818619582664" font-family="Arial" font-size="8" text-anchor="middle">p35</text>
+  <circle cx="50" cy="324.1573033707865" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="314.1573033707865" font-family="Arial" font-size="8" text-anchor="middle">p36</text>
+  <circle cx="50" cy="142.45585874799357" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="132.45585874799357" font-family="Arial" font-size="8" text-anchor="middle">p37</text>
+  <circle cx="507.14285714285717" cy="266.3723916532905" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="256.3723916532905" font-family="Arial" font-size="8" text-anchor="middle">p38</text>
+  <circle cx="507.14285714285717" cy="114.20545746388443" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="104.20545746388443" font-family="Arial" font-size="8" text-anchor="middle">p39</text>
+  <circle cx="216.9341894060995" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="216.9341894060995" y="40" font-family="Arial" font-size="8" text-anchor="middle">p40</text>
+  <circle cx="507.14285714285717" cy="717.736757624398" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="707.736757624398" font-family="Arial" font-size="8" text-anchor="middle">p41</text>
+  <circle cx="407.6243980738363" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="407.6243980738363" y="840" font-family="Arial" font-size="8" text-anchor="middle">p42</text>
+  <circle cx="50" cy="310.6741573033708" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="300.6741573033708" font-family="Arial" font-size="8" text-anchor="middle">p43</text>
+  <circle cx="507.14285714285717" cy="143.73996789727127" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="133.73996789727127" font-family="Arial" font-size="8" text-anchor="middle">p44</text>
+  <circle cx="214.36597110754414" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="214.36597110754414" y="40" font-family="Arial" font-size="8" text-anchor="middle">p45</text>
+  <circle cx="211.79775280898878" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="211.79775280898878" y="40" font-family="Arial" font-size="8" text-anchor="middle">p46</text>
+  <circle cx="507.14285714285717" cy="715.1685393258427" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="705.1685393258427" font-family="Arial" font-size="8" text-anchor="middle">p47</text>
+  <circle cx="50" cy="238.1219903691814" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="228.1219903691814" font-family="Arial" font-size="8" text-anchor="middle">p48</text>
+  <circle cx="112.2792937399679" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="112.2792937399679" y="840" font-family="Arial" font-size="8" text-anchor="middle">p49</text>
+  <circle cx="507.14285714285717" cy="712.6003210272874" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="702.6003210272874" font-family="Arial" font-size="8" text-anchor="middle">p50</text>
+  <circle cx="50" cy="573.916532905297" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="563.916532905297" font-family="Arial" font-size="8" text-anchor="middle">p51</text>
+  <circle cx="50" cy="576.4847512038523" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="566.4847512038523" font-family="Arial" font-size="8" text-anchor="middle">p52</text>
+  <circle cx="50" cy="462.19903691813806" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="452.19903691813806" font-family="Arial" font-size="8" text-anchor="middle">p53</text>
+  <circle cx="507.14285714285717" cy="428.8121990369181" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="418.8121990369181" font-family="Arial" font-size="8" text-anchor="middle">p54</text>
+  <circle cx="50" cy="145.02407704654894" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="135.02407704654894" font-family="Arial" font-size="8" text-anchor="middle">p55</text>
+  <circle cx="507.14285714285717" cy="263.80417335473516" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="253.80417335473516" font-family="Arial" font-size="8" text-anchor="middle">p56</text>
+  <circle cx="507.14285714285717" cy="261.23595505617976" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="251.23595505617976" font-family="Arial" font-size="8" text-anchor="middle">p57</text>
+  <circle cx="507.14285714285717" cy="564.2857142857143" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="554.2857142857143" font-family="Arial" font-size="8" text-anchor="middle">p58</text>
+  <circle cx="209.22953451043338" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="209.22953451043338" y="40" font-family="Arial" font-size="8" text-anchor="middle">p59</text>
+  <circle cx="507.14285714285717" cy="426.2439807383628" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="416.2439807383628" font-family="Arial" font-size="8" text-anchor="middle">p60</text>
+  <circle cx="50" cy="147.59229534510433" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="137.59229534510433" font-family="Arial" font-size="8" text-anchor="middle">p61</text>
+  <circle cx="507.14285714285717" cy="710.032102728732" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="700.032102728732" font-family="Arial" font-size="8" text-anchor="middle">p62</text>
+  <circle cx="50" cy="464.7672552166934" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="454.7672552166934" font-family="Arial" font-size="8" text-anchor="middle">p63</text>
+  <circle cx="206.66131621187802" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="206.66131621187802" y="40" font-family="Arial" font-size="8" text-anchor="middle">p64</text>
+  <circle cx="507.14285714285717" cy="423.6757624398074" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="413.6757624398074" font-family="Arial" font-size="8" text-anchor="middle">p65</text>
+  <circle cx="50" cy="326.7255216693419" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="316.7255216693419" font-family="Arial" font-size="8" text-anchor="middle">p66</text>
+  <circle cx="507.14285714285717" cy="707.4638844301766" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="697.4638844301766" font-family="Arial" font-size="8" text-anchor="middle">p67</text>
+  <circle cx="507.14285714285717" cy="333.7881219903692" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="323.7881219903692" font-family="Arial" font-size="8" text-anchor="middle">p68</text>
+  <circle cx="507.14285714285717" cy="111.63723916532905" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="101.63723916532905" font-family="Arial" font-size="8" text-anchor="middle">p69</text>
+  <circle cx="507.14285714285717" cy="258.6677367576244" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="248.66773675762443" font-family="Arial" font-size="8" text-anchor="middle">p70</text>
+  <circle cx="312.6003210272873" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="312.6003210272873" y="840" font-family="Arial" font-size="8" text-anchor="middle">p71</text>
+  <circle cx="507.14285714285717" cy="141.1717495987159" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="131.1717495987159" font-family="Arial" font-size="8" text-anchor="middle">p72</text>
+  <circle cx="507.14285714285717" cy="252.24719101123594" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="242.24719101123594" font-family="Arial" font-size="8" text-anchor="middle">p73</text>
+  <circle cx="507.14285714285717" cy="561.7174959871588" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="551.7174959871588" font-family="Arial" font-size="8" text-anchor="middle">p74</text>
+  <circle cx="204.09309791332262" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="204.09309791332262" y="40" font-family="Arial" font-size="8" text-anchor="middle">p75</text>
+  <circle cx="507.14285714285717" cy="238.76404494382024" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="228.76404494382024" font-family="Arial" font-size="8" text-anchor="middle">p76</text>
+  <circle cx="50" cy="467.3354735152488" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="457.3354735152488" font-family="Arial" font-size="8" text-anchor="middle">p77</text>
+  <circle cx="201.52487961476726" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="201.52487961476726" y="40" font-family="Arial" font-size="8" text-anchor="middle">p78</text>
+  <circle cx="507.14285714285717" cy="109.06902086677368" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="99.06902086677368" font-family="Arial" font-size="8" text-anchor="middle">p79</text>
+  <circle cx="198.95666131621186" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="198.95666131621186" y="40" font-family="Arial" font-size="8" text-anchor="middle">p80</text>
+  <circle cx="50" cy="329.2937399678973" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="319.2937399678973" font-family="Arial" font-size="8" text-anchor="middle">p81</text>
+  <circle cx="507.14285714285717" cy="704.8956661316212" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="694.8956661316212" font-family="Arial" font-size="8" text-anchor="middle">p82</text>
+  <circle cx="507.14285714285717" cy="702.3274478330658" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="692.3274478330658" font-family="Arial" font-size="8" text-anchor="middle">p83</text>
+  <circle cx="50" cy="679.2134831460675" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="669.2134831460675" font-family="Arial" font-size="8" text-anchor="middle">p84</text>
+  <circle cx="507.14285714285717" cy="249.67897271268058" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="239.67897271268058" font-family="Arial" font-size="8" text-anchor="middle">p85</text>
+  <circle cx="507.14285714285717" cy="558.5072231139648" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="548.5072231139648" font-family="Arial" font-size="8" text-anchor="middle">p86</text>
+  <circle cx="507.14285714285717" cy="699.7592295345104" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="689.7592295345104" font-family="Arial" font-size="8" text-anchor="middle">p87</text>
+  <circle cx="507.14285714285717" cy="331.2199036918138" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="321.2199036918138" font-family="Arial" font-size="8" text-anchor="middle">p88</text>
+  <circle cx="50" cy="331.86195826645263" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="321.86195826645263" font-family="Arial" font-size="8" text-anchor="middle">p89</text>
+  <circle cx="507.14285714285717" cy="328.65168539325845" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="318.65168539325845" font-family="Arial" font-size="8" text-anchor="middle">p90</text>
+  <circle cx="507.14285714285717" cy="235.553772070626" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="225.553772070626" font-family="Arial" font-size="8" text-anchor="middle">p91</text>
+  <circle cx="50" cy="681.7817014446227" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="671.7817014446227" font-family="Arial" font-size="8" text-anchor="middle">p92</text>
+  <circle cx="507.14285714285717" cy="232.34349919743178" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="222.34349919743178" font-family="Arial" font-size="8" text-anchor="middle">p93</text>
+  <circle cx="507.14285714285717" cy="697.1910112359551" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="687.1910112359551" font-family="Arial" font-size="8" text-anchor="middle">p94</text>
+  <circle cx="507.14285714285717" cy="420.46548956661314" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="410.46548956661314" font-family="Arial" font-size="8" text-anchor="middle">p95</text>
+  <circle cx="507.14285714285717" cy="555.2969502407705" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="545.2969502407705" font-family="Arial" font-size="8" text-anchor="middle">p96</text>
+  <circle cx="507.14285714285717" cy="694.6227929373997" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="684.6227929373997" font-family="Arial" font-size="8" text-anchor="middle">p97</text>
+  <circle cx="220.14446227929375" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="220.14446227929375" y="840" font-family="Arial" font-size="8" text-anchor="middle">p98</text>
+  <circle cx="290.12841091492777" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="290.12841091492777" y="840" font-family="Arial" font-size="8" text-anchor="middle">p99</text>
+  <circle cx="315.1685393258427" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="315.1685393258427" y="840" font-family="Arial" font-size="8" text-anchor="middle">p100</text>
+  <circle cx="507.14285714285717" cy="692.0545746388443" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="682.0545746388443" font-family="Arial" font-size="8" text-anchor="middle">p101</text>
+  <circle cx="50" cy="313.24237560192614" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="303.24237560192614" font-family="Arial" font-size="8" text-anchor="middle">p102</text>
+  <circle cx="507.14285714285717" cy="138.6035313001605" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="128.6035313001605" font-family="Arial" font-size="8" text-anchor="middle">p103</text>
+  <circle cx="50" cy="684.3499197431781" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="674.3499197431781" font-family="Arial" font-size="8" text-anchor="middle">p104</text>
+  <circle cx="507.14285714285717" cy="106.50080256821829" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="96.50080256821829" font-family="Arial" font-size="8" text-anchor="middle">p105</text>
+  <circle cx="50" cy="469.9036918138042" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="459.9036918138042" font-family="Arial" font-size="8" text-anchor="middle">p106</text>
+  <circle cx="50" cy="150.16051364365973" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="140.16051364365973" font-family="Arial" font-size="8" text-anchor="middle">p107</text>
+  <circle cx="50" cy="334.430176565008" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="324.430176565008" font-family="Arial" font-size="8" text-anchor="middle">p108</text>
+  <circle cx="507.14285714285717" cy="417.25521669341896" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="407.25521669341896" font-family="Arial" font-size="8" text-anchor="middle">p109</text>
+  <circle cx="50" cy="579.0529695024077" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="569.0529695024077" font-family="Arial" font-size="8" text-anchor="middle">p110</text>
+  <circle cx="50" cy="686.9181380417335" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="676.9181380417335" font-family="Arial" font-size="8" text-anchor="middle">p111</text>
+  <circle cx="410.1926163723916" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="410.1926163723916" y="840" font-family="Arial" font-size="8" text-anchor="middle">p112</text>
+  <circle cx="196.3884430176565" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="196.3884430176565" y="40" font-family="Arial" font-size="8" text-anchor="middle">p113</text>
+  <circle cx="507.14285714285717" cy="552.7287319422151" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="542.7287319422151" font-family="Arial" font-size="8" text-anchor="middle">p114</text>
+  <circle cx="507.14285714285717" cy="550.1605136436597" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="540.1605136436597" font-family="Arial" font-size="8" text-anchor="middle">p115</text>
+  <circle cx="507.14285714285717" cy="414.0449438202247" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="404.0449438202247" font-family="Arial" font-size="8" text-anchor="middle">p116</text>
+  <circle cx="193.82022471910113" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="193.82022471910113" y="40" font-family="Arial" font-size="8" text-anchor="middle">p117</text>
+  <circle cx="507.14285714285717" cy="546.9502407704655" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="536.9502407704655" font-family="Arial" font-size="8" text-anchor="middle">p118</text>
+  <circle cx="50" cy="315.81059390048154" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="305.81059390048154" font-family="Arial" font-size="8" text-anchor="middle">p119</text>
+  <circle cx="507.14285714285717" cy="148.87640449438203" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="138.87640449438203" font-family="Arial" font-size="8" text-anchor="middle">p120</text>
+  <circle cx="191.25200642054574" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="191.25200642054574" y="40" font-family="Arial" font-size="8" text-anchor="middle">p121</text>
+  <circle cx="507.14285714285717" cy="543.7399678972713" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="533.7399678972713" font-family="Arial" font-size="8" text-anchor="middle">p122</text>
+  <circle cx="507.14285714285717" cy="411.4767255216693" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="401.4767255216693" font-family="Arial" font-size="8" text-anchor="middle">p123</text>
+  <circle cx="188.68378812199037" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="188.68378812199037" y="40" font-family="Arial" font-size="8" text-anchor="middle">p124</text>
+  <circle cx="186.11556982343498" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="186.11556982343498" y="40" font-family="Arial" font-size="8" text-anchor="middle">p125</text>
+  <circle cx="50" cy="337.64044943820227" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="327.64044943820227" font-family="Arial" font-size="8" text-anchor="middle">p126</text>
+  <circle cx="114.84751203852328" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="114.84751203852328" y="840" font-family="Arial" font-size="8" text-anchor="middle">p127</text>
+  <circle cx="507.14285714285717" cy="541.1717495987159" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="531.1717495987159" font-family="Arial" font-size="8" text-anchor="middle">p128</text>
+  <circle cx="183.54735152487962" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="183.54735152487962" y="40" font-family="Arial" font-size="8" text-anchor="middle">p129</text>
+  <circle cx="507.14285714285717" cy="229.77528089887642" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="219.77528089887642" font-family="Arial" font-size="8" text-anchor="middle">p130</text>
+  <circle cx="507.14285714285717" cy="121.91011235955057" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="111.91011235955057" font-family="Arial" font-size="8" text-anchor="middle">p131</text>
+  <circle cx="507.14285714285717" cy="326.08346709470305" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="316.08346709470305" font-family="Arial" font-size="8" text-anchor="middle">p132</text>
+  <circle cx="227.20706260032102" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="227.20706260032102" y="40" font-family="Arial" font-size="8" text-anchor="middle">p133</text>
+  <circle cx="198.31460674157304" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="198.31460674157304" y="840" font-family="Arial" font-size="8" text-anchor="middle">p134</text>
+  <circle cx="50" cy="472.4719101123595" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="462.4719101123595" font-family="Arial" font-size="8" text-anchor="middle">p135</text>
+  <circle cx="50" cy="340.2086677367576" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="330.2086677367576" font-family="Arial" font-size="8" text-anchor="middle">p136</text>
+  <circle cx="307.46388443017656" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="307.46388443017656" y="840" font-family="Arial" font-size="8" text-anchor="middle">p137</text>
+  <circle cx="50" cy="319.0208667736758" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="309.0208667736758" font-family="Arial" font-size="8" text-anchor="middle">p138</text>
+  <circle cx="50" cy="475.0401284109149" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="465.0401284109149" font-family="Arial" font-size="8" text-anchor="middle">p139</text>
+  <circle cx="507.14285714285717" cy="226.56500802568218" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="216.56500802568218" font-family="Arial" font-size="8" text-anchor="middle">p140</text>
+  <circle cx="208.58747993579453" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="208.58747993579453" y="840" font-family="Arial" font-size="8" text-anchor="middle">p141</text>
+  <circle cx="282.42375601926165" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="282.42375601926165" y="840" font-family="Arial" font-size="8" text-anchor="middle">p142</text>
+  <circle cx="507.14285714285717" cy="223.9967897271268" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="213.9967897271268" font-family="Arial" font-size="8" text-anchor="middle">p143</text>
+  <circle cx="507.14285714285717" cy="537.9614767255216" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="527.9614767255216" font-family="Arial" font-size="8" text-anchor="middle">p144</text>
+  <circle cx="292.6966292134831" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="292.6966292134831" y="840" font-family="Arial" font-size="8" text-anchor="middle">p145</text>
+  <circle cx="507.14285714285717" cy="535.3932584269662" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="525.3932584269662" font-family="Arial" font-size="8" text-anchor="middle">p146</text>
+  <circle cx="295.2648475120385" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="295.2648475120385" y="840" font-family="Arial" font-size="8" text-anchor="middle">p147</text>
+  <circle cx="297.8330658105939" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="297.8330658105939" y="840" font-family="Arial" font-size="8" text-anchor="middle">p148</text>
+  <circle cx="284.99197431781704" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="284.99197431781704" y="840" font-family="Arial" font-size="8" text-anchor="middle">p149</text>
+  <circle cx="507.14285714285717" cy="220.7865168539326" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="210.7865168539326" font-family="Arial" font-size="8" text-anchor="middle">p150</text>
+  <circle cx="50" cy="443.90048154093097" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="433.90048154093097" font-family="Arial" font-size="8" text-anchor="middle">p151</text>
+  <circle cx="507.14285714285717" cy="532.8250401284109" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="522.8250401284109" font-family="Arial" font-size="8" text-anchor="middle">p152</text>
+  <circle cx="507.14285714285717" cy="217.57624398073835" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="207.57624398073835" font-family="Arial" font-size="8" text-anchor="middle">p153</text>
+  <circle cx="507.14285714285717" cy="581.6211878009631" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="571.6211878009631" font-family="Arial" font-size="8" text-anchor="middle">p154</text>
+  <circle cx="401.84590690208665" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="401.84590690208665" y="40" font-family="Arial" font-size="8" text-anchor="middle">p155</text>
+  <circle cx="50" cy="152.7287319422151" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="142.7287319422151" font-family="Arial" font-size="8" text-anchor="middle">p156</text>
+  <circle cx="507.14285714285717" cy="408.908507223114" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="398.908507223114" font-family="Arial" font-size="8" text-anchor="middle">p157</text>
+  <circle cx="50" cy="155.29695024077046" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="145.29695024077046" font-family="Arial" font-size="8" text-anchor="middle">p158</text>
+  <circle cx="507.14285714285717" cy="406.3402889245586" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="396.3402889245586" font-family="Arial" font-size="8" text-anchor="middle">p159</text>
+  <circle cx="50" cy="477.6083467094703" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="467.6083467094703" font-family="Arial" font-size="8" text-anchor="middle">p160</text>
+  <circle cx="50" cy="689.4863563402889" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="679.4863563402889" font-family="Arial" font-size="8" text-anchor="middle">p161</text>
+  <circle cx="507.14285714285717" cy="403.7720706260032" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="393.7720706260032" font-family="Arial" font-size="8" text-anchor="middle">p162</text>
+  <circle cx="507.14285714285717" cy="254.81540930979133" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="244.81540930979133" font-family="Arial" font-size="8" text-anchor="middle">p163</text>
+  <circle cx="50" cy="480.1765650080257" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="470.1765650080257" font-family="Arial" font-size="8" text-anchor="middle">p164</text>
+  <circle cx="507.14285714285717" cy="401.2038523274478" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="391.2038523274478" font-family="Arial" font-size="8" text-anchor="middle">p165</text>
+  <circle cx="200.8828250401284" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="200.8828250401284" y="840" font-family="Arial" font-size="8" text-anchor="middle">p166</text>
+  <circle cx="50" cy="342.776886035313" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="332.776886035313" font-family="Arial" font-size="8" text-anchor="middle">p167</text>
+  <circle cx="300.4012841091493" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="300.4012841091493" y="840" font-family="Arial" font-size="8" text-anchor="middle">p168</text>
+  <circle cx="302.9695024077047" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="302.9695024077047" y="840" font-family="Arial" font-size="8" text-anchor="middle">p169</text>
+  <circle cx="318.37881219903693" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="318.37881219903693" y="840" font-family="Arial" font-size="8" text-anchor="middle">p170</text>
+  <circle cx="50" cy="345.3451043338684" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="335.3451043338684" font-family="Arial" font-size="8" text-anchor="middle">p171</text>
+  <circle cx="50" cy="488.5232744783307" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="478.5232744783307" font-family="Arial" font-size="8" text-anchor="middle">p172</text>
+  <circle cx="50" cy="235.553772070626" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="225.553772070626" font-family="Arial" font-size="8" text-anchor="middle">p173</text>
+  <circle cx="507.14285714285717" cy="336.35634028892457" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="326.35634028892457" font-family="Arial" font-size="8" text-anchor="middle">p174</text>
+  <circle cx="507.14285714285717" cy="530.2568218298555" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="520.2568218298555" font-family="Arial" font-size="8" text-anchor="middle">p175</text>
+  <circle cx="50" cy="157.86516853932585" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="147.86516853932585" font-family="Arial" font-size="8" text-anchor="middle">p176</text>
+  <circle cx="50" cy="302.9695024077047" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="292.9695024077047" font-family="Arial" font-size="8" text-anchor="middle">p177</text>
+  <circle cx="412.760834670947" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="412.760834670947" y="840" font-family="Arial" font-size="8" text-anchor="middle">p178</text>
+  <circle cx="162.35955056179773" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="162.35955056179773" y="840" font-family="Arial" font-size="8" text-anchor="middle">p179</text>
+  <circle cx="405.0561797752809" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="405.0561797752809" y="840" font-family="Arial" font-size="8" text-anchor="middle">p180</text>
+  <circle cx="507.14285714285717" cy="214.36597110754414" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="204.36597110754414" font-family="Arial" font-size="8" text-anchor="middle">p181</text>
+  <circle cx="507.14285714285717" cy="211.79775280898878" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="201.79775280898878" font-family="Arial" font-size="8" text-anchor="middle">p182</text>
+  <circle cx="507.14285714285717" cy="437.80096308186194" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="427.80096308186194" font-family="Arial" font-size="8" text-anchor="middle">p183</text>
+  <circle cx="117.41573033707866" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="117.41573033707866" y="840" font-family="Arial" font-size="8" text-anchor="middle">p184</text>
+  <circle cx="119.98394863563402" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="119.98394863563402" y="840" font-family="Arial" font-size="8" text-anchor="middle">p185</text>
+  <circle cx="320.9470304975923" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="320.9470304975923" y="840" font-family="Arial" font-size="8" text-anchor="middle">p186</text>
+  <circle cx="507.14285714285717" cy="728.0096308186196" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="718.0096308186196" font-family="Arial" font-size="8" text-anchor="middle">p187</text>
+  <circle cx="122.5521669341894" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="122.5521669341894" y="840" font-family="Arial" font-size="8" text-anchor="middle">p188</text>
+  <circle cx="385.79454253611556" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="385.79454253611556" y="40" font-family="Arial" font-size="8" text-anchor="middle">p189</text>
+  <circle cx="404.41412520064205" cy="50" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="404.41412520064205" y="40" font-family="Arial" font-size="8" text-anchor="middle">p190</text>
+  <circle cx="507.14285714285717" cy="274.0770465489567" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="264.0770465489567" font-family="Arial" font-size="8" text-anchor="middle">p191</text>
+  <circle cx="507.14285714285717" cy="632.3434991974318" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="622.3434991974318" font-family="Arial" font-size="8" text-anchor="middle">p192</text>
+  <circle cx="50" cy="160.43338683788122" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="150.43338683788122" font-family="Arial" font-size="8" text-anchor="middle">p193</text>
+  <circle cx="507.14285714285717" cy="669.9036918138041" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="659.9036918138041" font-family="Arial" font-size="8" text-anchor="middle">p194</text>
+  <circle cx="193.17817014446229" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="193.17817014446229" y="840" font-family="Arial" font-size="8" text-anchor="middle">p195</text>
+  <circle cx="507.14285714285717" cy="398.63563402889247" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="388.63563402889247" font-family="Arial" font-size="8" text-anchor="middle">p196</text>
+  <circle cx="50" cy="692.0545746388443" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="682.0545746388443" font-family="Arial" font-size="8" text-anchor="middle">p197</text>
+  <circle cx="50" cy="350.4815409309791" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="340.4815409309791" font-family="Arial" font-size="8" text-anchor="middle">p198</text>
+  <circle cx="50" cy="581.6211878009631" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="571.6211878009631" font-family="Arial" font-size="8" text-anchor="middle">p199</text>
+  <circle cx="50" cy="482.74478330658104" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="472.74478330658104" font-family="Arial" font-size="8" text-anchor="middle">p200</text>
+  <circle cx="107.14285714285714" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="107.14285714285714" y="840" font-family="Arial" font-size="8" text-anchor="middle">p201</text>
+  <circle cx="50" cy="563.6436597110754" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="553.6436597110754" font-family="Arial" font-size="8" text-anchor="middle">p202</text>
+  <circle cx="507.14285714285717" cy="396.0674157303371" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="386.0674157303371" font-family="Arial" font-size="8" text-anchor="middle">p203</text>
+  <circle cx="507.14285714285717" cy="584.1894060995185" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="574.1894060995185" font-family="Arial" font-size="8" text-anchor="middle">p204</text>
+  <circle cx="217.57624398073835" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="217.57624398073835" y="840" font-family="Arial" font-size="8" text-anchor="middle">p205</text>
+  <circle cx="50" cy="674.0770465489567" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="664.0770465489567" font-family="Arial" font-size="8" text-anchor="middle">p206</text>
+  <circle cx="279.85553772070625" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="279.85553772070625" y="840" font-family="Arial" font-size="8" text-anchor="middle">p207</text>
+  <circle cx="507.14285714285717" cy="442.2953451043339" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="432.2953451043339" font-family="Arial" font-size="8" text-anchor="middle">p208</text>
+  <circle cx="50" cy="134.75120385232745" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="124.75120385232745" font-family="Arial" font-size="8" text-anchor="middle">p209</text>
+  <circle cx="50" cy="454.4943820224719" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="50" y="444.4943820224719" font-family="Arial" font-size="8" text-anchor="middle">p210</text>
+  <circle cx="507.14285714285717" cy="246.46869983948636" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="507.14285714285717" y="236.46869983948636" font-family="Arial" font-size="8" text-anchor="middle">p211</text>
+  <circle cx="205.0561797752809" cy="850" r="6" fill="red" stroke="darkred" stroke-width="1"/>
+  <text x="205.0561797752809" y="840" font-family="Arial" font-size="8" text-anchor="middle">p212</text>
+  <text x="50" y="870" font-family="Arial" font-size="12">Dimensions: 356.0 x 623.0</text>
+</svg>

@@ -1,0 +1,32 @@
+[package]
+name = "standard-cell-placer"
+version = "0.2.0"
+edition = "2021"
+authors = ["Andreas Tzitzikas"]
+license = "MIT"
+description = "Industrial-strength VLSI standard-cell placer with B*-tree and simulated annealing"
+repository = "https://github.com/yourusername/standard-cell-placer"
+keywords = ["vlsi", "floorplanning", "eda", "placement", "optimization"]
+categories = ["algorithms", "simulation"]
+
+[[bin]]
+name = "floorplan"
+path = "src/main.rs"
+
+[[bin]]
+name = "validate"
+path = "src/bin/validate.rs"
+
+[[bin]]
+name = "visualize"
+path = "src/bin/visualize.rs"
+
+[[bin]]
+name = "benchmark"
+path = "src/bin/benchmark.rs"
+
+[dependencies]
+rand = "0.8"
+rayon = "1.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
