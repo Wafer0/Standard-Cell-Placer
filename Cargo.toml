@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Andreas Tzitzikas"]
 license = "MIT"
 description = "Industrial-strength VLSI standard-cell placer with B*-tree and simulated annealing"
-repository = "https://github.com/yourusername/standard-cell-placer"
+repository = "https://github.com/Wafer0/Standard-Cell-Placer"
 keywords = ["vlsi", "floorplanning", "eda", "placement", "optimization"]
 categories = ["algorithms", "simulation"]
 

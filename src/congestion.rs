@@ -18,11 +18,7 @@ pub struct CongestionMap {
 
 impl CongestionMap {
     /// Creates a new congestion map with specified grid dimensions
-    pub fn new(
-        floorplan_width: f64,
-        floorplan_height: f64,
-        grid_size: usize,
-    ) -> Self {
+    pub fn new(floorplan_width: f64, floorplan_height: f64, grid_size: usize) -> Self {
         let grid_width = grid_size;
         let grid_height = grid_size;
         let cell_size = floorplan_width.max(floorplan_height) / grid_size as f64;
@@ -135,10 +131,7 @@ impl CongestionMap {
 
     /// Returns total overflow across all grid cells
     pub fn get_total_overflow(&self) -> f64 {
-        self.overflow
-            .iter()
-            .flat_map(|row| row.iter())
-            .sum()
+        self.overflow.iter().flat_map(|row| row.iter()).sum()
     }
 
     /// Returns maximum overflow in any single cell

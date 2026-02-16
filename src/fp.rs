@@ -98,7 +98,7 @@ impl FPlan {
         let reader = BufReader::new(file);
         let mut lines = reader.lines();
 
-        // Read header 
+        // Read header
         let line1 = lines.next().unwrap().unwrap();
         let parts1: Vec<&str> = line1.split(':').collect();
         let _num_softblock: usize = parts1[1].trim().parse().unwrap();
@@ -124,7 +124,7 @@ impl FPlan {
             let y1_str = parts[4].trim_end_matches(')');
             let x3_str = parts[7].trim_start_matches('(').trim_end_matches(',');
             let y3_str = parts[8].trim_end_matches(')');
-            
+
             let x1: f64 = x1_str.parse().unwrap();
             let y1: f64 = y1_str.parse().unwrap();
             let x3: f64 = x3_str.parse().unwrap();

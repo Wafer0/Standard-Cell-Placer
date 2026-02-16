@@ -1,6 +1,6 @@
-use crate::fp::*;
-use crate::timing::{TimingAnalyzer, compute_net_wirelength};
 use crate::congestion::{analyze_congestion, compute_congestion_cost};
+use crate::fp::*;
+use crate::timing::{compute_net_wirelength, TimingAnalyzer};
 use std::collections::VecDeque;
 use std::io::BufRead;
 
@@ -145,7 +145,7 @@ impl BTree {
             let y1_str = parts[4].trim_end_matches(')');
             let x3_str = parts[7].trim_start_matches('(').trim_end_matches(',');
             let y3_str = parts[8].trim_end_matches(')');
-            
+
             let x1: f64 = x1_str.parse().unwrap();
             let y1: f64 = y1_str.parse().unwrap();
             let x3: f64 = x3_str.parse().unwrap();
@@ -271,16 +271,25 @@ impl BTree {
     }
 
     pub fn init(&mut self) {
-        self.contour.resize(self.num_modules, Contour { front: NIL, back: NIL });
-        self.nodes.resize(self.num_modules, Node {
-            id: 0,
-            parent: NIL,
-            left: NIL,
-            right: NIL,
-            m_id: 0,
-            rotate: false,
-            flip: false,
-        });
+        self.contour.resize(
+            self.num_modules,
+            Contour {
+                front: NIL,
+                back: NIL,
+            },
+        );
+        self.nodes.resize(
+            self.num_modules,
+            Node {
+                id: 0,
+                parent: NIL,
+                left: NIL,
+                right: NIL,
+                m_id: 0,
+                rotate: false,
+                flip: false,
+            },
+        );
 
         self.nodes_root = 0;
 
@@ -337,7 +346,7 @@ impl BTree {
             let n_parent = self.nodes[p].parent;
             let n_right = self.nodes[p].right;
             let n_left = self.nodes[p].left;
-            
+
             assert!(n_parent != NIL);
             let is_left = self.nodes[n_parent as usize].left == p as i32;
             self.place_module(p, n_parent as usize, is_left);
@@ -465,7 +474,11 @@ impl BTree {
             loop {
                 p = rng.gen_range(0..self.num_modules);
                 temp += 1;
-                if temp >= 100 || (n != p && self.nodes[n].parent != p as i32 && self.nodes[p].parent != n as i32) {
+                if temp >= 100
+                    || (n != p
+                        && self.nodes[n].parent != p as i32
+                        && self.nodes[p].parent != n as i32)
+                {
                     break;
                 }
             }
@@ -683,20 +696,13 @@ impl BTree {
 
         // Add timing cost if weight is non-zero
         if timing_weight > 0.0 {
-            let mut timing_analyzer = TimingAnalyzer::new(
-                self.num_modules,
-                self.num_nets,
-                clock_period,
-            );
+            let mut timing_analyzer =
+                TimingAnalyzer::new(self.num_modules, self.num_nets, clock_period);
 
             // Compute net delays based on wirelengths
             for (net_idx, net) in self.network.iter().enumerate() {
-                let wl = compute_net_wirelength(
-                    net,
-                    &self.modules,
-                    &self.terminals,
-                    self.num_modules,
-                );
+                let wl =
+                    compute_net_wirelength(net, &self.modules, &self.terminals, self.num_modules);
                 timing_analyzer.compute_net_delay(net_idx, wl);
             }
 
@@ -894,7 +900,8 @@ impl BTree {
         let mut frresult = std::fs::File::create(&filename).expect("Failed to create result file");
 
         let filename_pl = format!("./out/{}.pl", self.filename_short);
-        let mut frplace = std::fs::File::create(&filename_pl).expect("Failed to create placement file");
+        let mut frplace =
+            std::fs::File::create(&filename_pl).expect("Failed to create placement file");
 
         println!("{}:", self.filename_short);
         println!("#modules = {}", self.num_modules);

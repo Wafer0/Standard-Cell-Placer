@@ -1,0 +1,26 @@
+# Rust build artifacts
+/target/
+/build/
+
+# LaTeX auxiliary files
+/docs/*.aux
+/docs/*.fdb_latexmk
+/docs/*.fls
+/docs/*.log
+/docs/*.out
+/docs/*.synctex.gz
+/docs/*.toc
+
+# Temporary benchmark files emitted in out/ before the runner moves them
+/out/*.json
+/out/*.pl
+/out/*.result
+/out/*.SA
+/out/*.svg
+
+# Local/editor noise
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/

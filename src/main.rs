@@ -1,8 +1,8 @@
 mod btree;
+mod congestion;
 mod fp;
 mod sa;
 mod timing;
-mod congestion;
 
 use btree::BTree;
 use sa::sa_floorplan;
@@ -39,13 +39,13 @@ fn main() {
     let times: usize = args[3].parse().expect("Invalid times");
     let init_temp: f64 = args[4].parse().expect("Invalid init_temp");
     let term_temp: f64 = args[5].parse().expect("Invalid term_temp");
-    
+
     let timing_weight: f64 = if args.len() > 6 {
         args[6].parse().expect("Invalid timing_weight")
     } else {
         0.0
     };
-    
+
     let congestion_weight: f64 = if args.len() > 7 {
         args[7].parse().expect("Invalid congestion_weight")
     } else {
@@ -71,7 +71,15 @@ fn main() {
         }
     }
 
-    sa_floorplan(&mut fp, filename, times, init_temp, term_temp, timing_weight, congestion_weight);
+    sa_floorplan(
+        &mut fp,
+        filename,
+        times,
+        init_temp,
+        term_temp,
+        timing_weight,
+        congestion_weight,
+    );
 
     let elapsed = start_time.elapsed().as_secs_f64();
     fp.print_result();

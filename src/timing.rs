@@ -106,9 +106,8 @@ impl TimingAnalyzer {
         // Compute slack for each module
         let mut max_delay = 0.0;
         for module_idx in 0..num_modules {
-            self.module_timing[module_idx].slack =
-                self.module_timing[module_idx].required_time
-                    - self.module_timing[module_idx].arrival_time;
+            self.module_timing[module_idx].slack = self.module_timing[module_idx].required_time
+                - self.module_timing[module_idx].arrival_time;
 
             if self.module_timing[module_idx].arrival_time > max_delay {
                 max_delay = self.module_timing[module_idx].arrival_time;
@@ -149,10 +148,7 @@ impl TimingAnalyzer {
 
     /// Returns number of timing violations
     pub fn get_num_violations(&self) -> usize {
-        self.module_timing
-            .iter()
-            .filter(|t| t.slack < 0.0)
-            .count()
+        self.module_timing.iter().filter(|t| t.slack < 0.0).count()
     }
 }
 

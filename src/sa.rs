@@ -25,7 +25,7 @@ pub fn sa_floorplan(
     let mut t = init_t;
     let conv_rate = 0.99;
     let tratio = 0.85;
-    
+
     let use_advanced = timing_weight > 0.0 || congestion_weight > 0.0;
     let clock_period = 10.0;
     let grid_size = 20;
@@ -33,9 +33,14 @@ pub fn sa_floorplan(
     fp.packing();
     fp.keep_sol();
     fp.keep_best();
-    
+
     pre_cost = if use_advanced {
-        fp.get_cost_with_timing_congestion(timing_weight, congestion_weight, clock_period, grid_size)
+        fp.get_cost_with_timing_congestion(
+            timing_weight,
+            congestion_weight,
+            clock_period,
+            grid_size,
+        )
     } else {
         fp.get_cost()
     };
@@ -57,13 +62,18 @@ pub fn sa_floorplan(
         while uphill < n && mt < 2 * n {
             fp.perturb();
             fp.packing();
-            
+
             cost = if use_advanced {
-                fp.get_cost_with_timing_congestion(timing_weight, congestion_weight, clock_period, grid_size)
+                fp.get_cost_with_timing_congestion(
+                    timing_weight,
+                    congestion_weight,
+                    clock_period,
+                    grid_size,
+                )
             } else {
                 fp.get_cost()
             };
-            
+
             d_cost = cost - pre_cost;
             let p = (-d_cost / t).exp();
 

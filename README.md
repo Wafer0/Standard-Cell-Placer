@@ -89,8 +89,8 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd standard-cell-placer
+git clone https://github.com/Wafer0/Standard-Cell-Placer.git
+cd Standard-Cell-Placer
 
 # Build release version (optimized)
 cargo build --release
@@ -614,7 +614,7 @@ If you use this placer in your research, please cite:
   title = {Advanced Standard-Cell Placer with B*-tree and Simulated Annealing},
   author = {Andreas Tzitzikas},
   year = {2025},
-  url = {https://github.com/yourusername/standard-cell-placer}
+  url = {https://github.com/Wafer0/Standard-Cell-Placer}
 }
 ```
 
